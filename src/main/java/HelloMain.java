@@ -1,4 +1,4 @@
-package com.axelor.app;
+//package com.axelor.app;
 
 public class HelloMain
 {
